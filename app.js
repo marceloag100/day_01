@@ -6,7 +6,7 @@ var app = new Vue({
   },
   methods: {
     addTask: function (task) {
-      var date = moment().format("YYYY/MM/DD HH:mm:ss")
+      var date = moment().format('YYYY/MM/DD HH:mm:ss')
       if (task) {
         var newTask = {
           task: task,
@@ -23,7 +23,7 @@ var app = new Vue({
   },
   filters: {
     fromNow (date) {
-      return moment(date, "YYYY/MM/DD HH:mm:ss").fromNow()
+      return moment(date, 'YYYY/MM/DD HH:mm:ss').fromNow()
     }
   },
   created () {
