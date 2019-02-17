@@ -5,11 +5,11 @@
 
 Creating a todo-list app with Vue
 
-## Funcionalities
+## Functionalities
 
 * Create tasks
 * Delete tasks
-* Show how long task was created 
+* Show how long task was created
 
 ## Tools used
 
