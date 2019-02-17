@@ -1,0 +1,30 @@
+.container{
+  margin-top: 2em;
+}
+.tarea{
+  margin: .3em;
+  font-size: 1.5em;
+}
+h1{
+  font-size: 3em;
+}
+span.tag.is-warning {
+    font-size: .9em;
+}
+.is-centered{
+  text-align: center;
+  margin: auto;
+}
+.button i.far, .button svg{
+  margin-right: 1em;
+}
+.small{
+  font-size: .5em;
+  display: block;
+}
+.task{
+  display: block;
+}
+.date{
+  color: rgb(128, 128, 128);
+}
