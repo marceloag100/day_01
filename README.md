@@ -22,3 +22,7 @@ Creating a todo-list app with Vue
 ## Learned
 
 First time using vue, moment & bulma (i liked bulma a lot btw)
+
+## Demo
+
+![Day01](https://i.imgur.com/lh9Ubly.gif)
